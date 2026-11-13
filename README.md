@@ -1,7 +1,7 @@
 # 🤖 Simulador de Rescate Autónomo en Zonas de Desastre
 
 **Materia:** Robótica y Optimización  
-**Alumno:** [Tu Nombre Completo]  
+**Alumno:** [Diego Esequiel Giuliani]  
 **Año:** 2026
 
 ## 📝 Descripción del Proyecto
